@@ -1,0 +1,55 @@
+,match_id,game_id,rally_id,point_nbr,srv_team_id,rtrn_team_id,w_team_id,to_ind,to_team_id,ending_type
+63,1,2,64,1,T2,T1,T2,N,,Winner
+64,1,2,65,2,T2,T1,T1,N,,Winner
+65,1,2,66,3,T1,T2,T2,N,,Winner
+66,1,2,67,4,T1,T2,T1,N,,Unforced Error
+67,1,2,68,5,T1,T2,T1,N,,Other
+68,1,2,69,6,T1,T2,T1,N,,Winner
+69,1,2,70,7,T1,T2,T1,N,,Other
+70,1,2,71,8,T1,T2,,Y,T2,
+71,1,2,72,9,T1,T2,T2,N,,Other
+72,1,2,73,10,T2,T1,T1,N,,Other
+73,1,2,74,11,T2,T1,T1,N,,Winner
+74,1,2,75,12,T1,T2,T2,N,,Winner
+75,1,2,76,13,T1,T2,T2,N,,Unforced Error
+76,1,2,77,14,T2,T1,T1,N,,Winner
+77,1,2,78,15,T2,T1,T2,N,,Other
+78,1,2,79,16,T2,T1,T1,N,,Winner
+79,1,2,80,17,T1,T2,T1,N,,Winner
+80,1,2,81,18,T1,T2,T2,N,,Other
+81,1,2,82,19,T1,T2,T2,N,,Other
+82,1,2,83,20,T2,T1,T1,N,,Other
+83,1,2,84,21,T2,T1,T1,N,,Other
+84,1,2,85,22,T1,T2,T2,N,,Other
+85,1,2,86,23,T1,T2,T1,N,,Winner
+86,1,2,87,24,T1,T2,T2,N,,Other
+87,1,2,88,25,T2,T1,T1,N,,Other
+88,1,2,89,26,T2,T1,T1,N,,Winner
+89,1,2,90,27,T1,T2,T1,N,,Other
+90,1,2,91,28,T1,T2,T2,N,,Unforced Error
+91,1,2,92,29,T1,T2,T1,N,,Other
+92,1,2,93,30,T1,T2,T2,N,,Winner
+93,1,2,94,31,T2,T1,T2,N,,Unforced Error
+94,1,2,95,32,T2,T1,T1,N,,Other
+95,1,2,96,33,T2,T1,T1,N,,Unforced Error
+96,1,2,97,34,T1,T2,T1,N,,Other
+97,1,2,98,35,T1,T2,T1,N,,Other
+98,1,2,99,36,T1,T2,T2,N,,Unforced Error
+99,1,2,100,37,T1,T2,T2,N,,Other
+100,1,2,101,38,T2,T1,T2,N,,Unforced Error
+101,1,2,102,39,T2,T1,T2,N,,Unforced Error
+102,1,2,103,40,T2,T1,,Y,T1,
+103,1,2,104,41,T2,T1,T1,N,,Other
+104,1,2,105,42,T2,T1,T1,N,,Unforced Error
+105,1,2,106,43,T1,T2,T2,N,,Other
+106,1,2,107,44,T1,T2,,Y,T2,
+107,1,2,108,45,T1,T2,T2,N,,Unforced Error
+108,1,2,109,46,T2,T1,T1,N,,Other
+109,1,2,110,47,T2,T1,T2,N,,Unforced Error
+110,1,2,111,48,T2,T1,T1,N,,Other
+111,1,2,112,49,T1,T2,T2,N,,Unforced Error
+112,1,2,113,50,T1,T2,T2,N,,Winner
+113,1,2,114,51,T2,T1,T1,N,,Unforced Error
+114,1,2,115,52,T2,T1,T2,N,,Other
+115,1,2,116,53,T2,T1,T1,N,,Unforced Error
+116,1,2,117,54,T1,T2,T1,N,,Other

@@ -1,0 +1,64 @@
+"player_id","first_nm","last_nm","supp_nm","gender","dom_hand","maint_dtm","maint_app","create_dtm","create_app"
+P1,Jesse,Irvine,"",,R,2022-04-08 23:19:33.832 -0400,postgres,2022-04-08 23:19:33.832 -0400,postgres
+P2,Catherine,Parenteau,"",,R,2022-04-08 23:19:33.834 -0400,postgres,2022-04-08 23:19:33.834 -0400,postgres
+P3,Anna Leigh,Waters,"",,R,2022-04-08 23:19:33.835 -0400,postgres,2022-04-08 23:19:33.835 -0400,postgres
+P4,Leigh,Waters,"",,R,2022-04-08 23:19:33.835 -0400,postgres,2022-04-08 23:19:33.835 -0400,postgres
+P5,Lea,Jansen,"",,R,2022-05-25 20:45:11.296 -0400,postgres,2022-05-25 20:45:11.296 -0400,postgres
+P7,Tyson,McGuffin,"",,R,2022-06-20 15:06:21.616 -0400,postgres,2022-06-20 15:06:21.616 -0400,postgres
+P8,Matt,Wright,"",,R,2022-06-20 15:06:21.618 -0400,postgres,2022-06-20 15:06:21.618 -0400,postgres
+P9,Riley,Newman,"",,R,2022-06-20 15:06:21.619 -0400,postgres,2022-06-20 15:06:21.619 -0400,postgres
+P10,Wyatt,Stone,"",,R,2022-06-27 20:40:22.939 -0400,postgres,2022-06-27 20:40:22.939 -0400,postgres
+P11,Hayden,Patriquin,"",,R,2022-06-27 20:40:22.941 -0400,postgres,2022-06-27 20:40:22.941 -0400,postgres
+P12,Thomas,Wilson,"",,R,2022-07-07 19:01:45.909 -0400,postgres,2022-07-07 19:01:45.909 -0400,postgres
+P13,AJ,Koller,"",,R,2022-07-07 19:01:45.912 -0400,postgres,2022-07-07 19:01:45.912 -0400,postgres
+P14,Allyce,Jones,"",,R,2022-07-10 22:40:50.587 -0400,postgres,2022-07-10 22:40:50.587 -0400,postgres
+P15,Meghan,Sheehan-Dizon,"",,R,2022-07-10 22:40:50.589 -0400,postgres,2022-07-10 22:40:50.589 -0400,postgres
+P16,Anna,Bright,"",,R,2022-07-10 22:40:50.590 -0400,postgres,2022-07-10 22:40:50.590 -0400,postgres
+P17,Greg,Dow,"",,R,2022-07-28 17:21:24.369 -0400,postgres,2022-07-28 17:21:24.369 -0400,postgres
+P18,Anderson,Scarpa,"",,R,2022-07-28 17:21:24.373 -0400,postgres,2022-07-28 17:21:24.373 -0400,postgres
+P19,Chrissy,Penfold,"",,R,2022-08-02 22:10:17.295 -0400,postgres,2022-08-02 22:10:17.295 -0400,postgres
+P20,Eli,Powell,"",,R,2022-08-02 22:10:17.298 -0400,postgres,2022-08-02 22:10:17.298 -0400,postgres
+P21,Monica,Linn,"",,R,2022-08-02 22:10:17.299 -0400,postgres,2022-08-02 22:10:17.299 -0400,postgres
+P22,Bill,Kacergis,"",,R,2022-08-02 22:10:17.300 -0400,postgres,2022-08-02 22:10:17.300 -0400,postgres
+P23,Collin,Johns,"",,R,2022-08-07 23:10:56.800 -0400,postgres,2022-08-07 23:10:56.800 -0400,postgres
+P24,Ben,Johns,"",,R,2022-08-07 23:10:56.807 -0400,postgres,2022-08-07 23:10:56.807 -0400,postgres
+P25,Callan,Dawson,"",,R,2022-08-07 23:10:56.808 -0400,postgres,2022-08-07 23:10:56.808 -0400,postgres
+P26,Spencer,Smith,"",,R,2022-08-07 23:10:56.809 -0400,postgres,2022-08-07 23:10:56.809 -0400,postgres
+P27,Vivienne,David,"",,R,2022-08-14 20:54:02.944 -0400,postgres,2022-08-14 20:54:02.944 -0400,postgres
+P28,Lauren,Stratman,"",,R,2022-08-14 20:54:02.945 -0400,postgres,2022-08-14 20:54:02.945 -0400,postgres
+P29,Jorja,Johnson,"",,R,2022-08-14 20:54:02.946 -0400,postgres,2022-08-14 20:54:02.946 -0400,postgres
+P30,Irina,Tereschenko,"",,R,2022-08-21 19:40:37.357 -0400,postgres,2022-08-21 19:40:37.357 -0400,postgres
+P31,Lucy,Kovalova,"",,R,2022-08-29 18:54:29.984 -0400,postgres,2022-08-29 18:54:29.984 -0400,postgres
+P32,Jimbo,Peterson,"",,R,2022-08-30 21:55:18.177 -0400,postgres,2022-08-30 21:55:18.177 -0400,postgres
+P33,David,McNally,"",,R,2022-08-30 21:55:18.179 -0400,postgres,2022-08-30 21:55:18.179 -0400,postgres
+P34,Ross,Whittaker,"",,R,2022-08-30 21:55:18.180 -0400,postgres,2022-08-30 21:55:18.180 -0400,postgres
+P35,Grant,Johnston,"",,R,2022-08-30 21:55:18.181 -0400,postgres,2022-08-30 21:55:18.181 -0400,postgres
+P36,Harsh,Pareek,"",,R,2022-09-09 13:20:52.857 -0400,postgres,2022-09-09 13:20:52.857 -0400,postgres
+P37,Paul,Olin,"",,R,2022-09-11 15:28:42.999 -0400,postgres,2022-09-11 15:28:42.999 -0400,postgres
+P38,Dave,Fleming,"",,R,2022-09-11 15:28:43.003 -0400,postgres,2022-09-11 15:28:43.003 -0400,postgres
+P39,Chris Mills,Miller,"",,R,2022-09-11 15:28:43.004 -0400,postgres,2022-09-11 15:28:43.004 -0400,postgres
+P40,John,Sperling,"",,R,2022-09-11 15:28:43.005 -0400,postgres,2022-09-11 15:28:43.005 -0400,postgres
+P41,Joel,Phillips,"",,R,2022-09-11 15:40:31.478 -0400,postgres,2022-09-11 15:40:31.478 -0400,postgres
+P42,Chandra,Soucek,"",,R,2022-09-22 23:01:15.363 -0400,postgres,2022-09-22 23:01:15.363 -0400,postgres
+P43,Katherine,Gillis,"",,R,2022-09-22 23:01:15.365 -0400,postgres,2022-09-22 23:01:15.365 -0400,postgres
+P45,Emer,Daly,"",,R,2022-09-22 23:01:15.367 -0400,postgres,2022-09-22 23:01:15.367 -0400,postgres
+P47,Alix,Truong,"",,R,2022-09-22 23:03:50.041 -0400,postgres,2022-09-22 23:03:50.041 -0400,postgres
+P48,Vivian,David,"",,R,2022-09-22 23:03:50.043 -0400,postgres,2022-09-22 23:03:50.043 -0400,postgres
+P49,Jon,Smet,"",,R,2022-09-24 23:10:34.044 -0400,postgres,2022-09-24 23:10:34.044 -0400,postgres
+P50,Alex,Spancake,"",,R,2022-09-24 23:10:34.048 -0400,postgres,2022-09-24 23:10:34.048 -0400,postgres
+P52,Carter,Wittendorf,"",,R,2022-09-24 23:10:34.051 -0400,postgres,2022-09-24 23:10:34.051 -0400,postgres
+P51,Mark,Cunningham,"",,R,2022-09-24 23:10:34.050 -0400,postgres,2022-09-24 23:10:34.050 -0400,postgres
+P53,Dekel,Bar,"",,R,2022-10-03 23:31:19.596 -0400,postgres,2022-10-03 23:31:19.596 -0400,postgres
+P54,Jay,Devilliers,"",,R,2022-10-03 23:31:19.598 -0400,postgres,2022-10-03 23:31:19.598 -0400,postgres
+P55,Patrick,Smith,"",,R,2022-10-03 23:31:19.599 -0400,postgres,2022-10-03 23:31:19.599 -0400,postgres
+P56,Max,Sinthorntham,"",,R,2022-10-04 22:00:45.394 -0400,postgres,2022-10-04 22:00:45.394 -0400,postgres
+P57,Ross,Weinberg,"",,R,2022-10-04 22:00:45.396 -0400,postgres,2022-10-04 22:00:45.396 -0400,postgres
+P58,Guarav,Sethi,"",,R,2022-10-04 22:00:45.398 -0400,postgres,2022-10-04 22:00:45.398 -0400,postgres
+P6,Tyler,Loong,"",,L,2022-06-20 15:06:21.613 -0400,postgres,2022-06-20 15:06:21.613 -0400,postgres
+P44,Sara,Maher,"",,L,2022-09-22 23:01:15.366 -0400,postgres,2022-09-22 23:01:15.366 -0400,postgres
+P46,Monica,Paolicelli,"",,L,2022-09-22 23:03:50.040 -0400,postgres,2022-09-22 23:03:50.040 -0400,postgres
+P59,Mike,Strain,"",,,,,,
+P60,Payton,Noyes,"",,,,,,
+P61,Gizmo,Hall,"",,,,,,
+P62,Ryan,Kane,"",,,,,,
+P63,Brandon,Ward,"",,,,,,

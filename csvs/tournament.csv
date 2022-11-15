@@ -1,0 +1,20 @@
+"tourn_id","tourn_nm","tourn_yr","start_dt","end_dt","tour_type","country","state","city","maint_dtm","maint_app","create_dtm","create_app"
+T1,PPA Ororo Indoor National Championships,2022,,,,,,,2022-04-08 23:19:33.830 -0400,postgres,2022-04-08 23:19:33.830 -0400,postgres
+T2,PPA Red Rock Open,2022,,,,,,,2022-05-25 20:45:11.294 -0400,postgres,2022-05-25 20:45:11.294 -0400,postgres
+T4,PPA Invisalign North Carolina Open,2022,,,,,,,2022-06-20 15:06:49.219 -0400,postgres,2022-06-20 15:06:49.219 -0400,postgres
+T5,PPA Atlanta Open,2022,,,,,,,2022-06-27 20:40:22.931 -0400,postgres,2022-06-27 20:40:22.931 -0400,postgres
+T6,PPA Carvana Desert Ridge Open,2022,,,,,,,2022-07-07 19:01:45.901 -0400,postgres,2022-07-07 19:01:45.901 -0400,postgres
+T7,PPA Acrytech Atlanta Open,2022,,,,,,,2022-07-10 22:40:50.585 -0400,postgres,2022-07-10 22:40:50.585 -0400,postgres
+T8,Legends Winter Classic,2022,,,,,,,2022-08-02 22:10:17.290 -0400,postgres,2022-08-02 22:10:17.290 -0400,postgres
+T9,APP New Jersey,2022,,,,,,,2022-08-14 20:54:02.935 -0400,postgres,2022-08-14 20:54:02.935 -0400,postgres
+T10,Tuesday Night Pickleball - Aug 9,2022,,,,,,,2022-08-14 22:15:40.887 -0400,postgres,2022-08-14 22:15:40.887 -0400,postgres
+T11,Tuesday Night Pickleball - Aug 2,2022,,,,,,,2022-08-29 18:54:29.975 -0400,postgres,2022-08-29 18:54:29.975 -0400,postgres
+T12,Gamma Pickleball Classic,2022,,,,,,,2022-08-30 21:55:18.174 -0400,postgres,2022-08-30 21:55:18.174 -0400,postgres
+T13,Frank 9.4,2022,,,,,,,2022-09-09 13:20:52.847 -0400,postgres,2022-09-09 13:20:52.847 -0400,postgres
+T14,APP Boca Raton Masters,2022,,,,,,,2022-09-11 15:28:42.993 -0400,postgres,2022-09-11 15:28:42.993 -0400,postgres
+T15,"5th Annual Dink Dink Bang",2022,,,,,,,2022-09-22 23:01:15.356 -0400,postgres,2022-09-22 23:01:15.356 -0400,postgres
+T16,APP New Jersey Open,2022,,,,,,,2022-09-22 23:03:50.034 -0400,postgres,2022-09-22 23:03:50.034 -0400,postgres
+T17,Beer City Open,2022,,,,,,,2022-09-24 23:10:34.033 -0400,postgres,2022-09-24 23:10:34.033 -0400,postgres
+T18,APP Hilton Head Masters,2021,,,,,,,2022-10-03 23:31:19.593 -0400,postgres,2022-10-03 23:31:19.593 -0400,postgres
+T19,Reston Paddle Battle,2022,,,,,,,2022-10-04 22:00:45.391 -0400,postgres,2022-10-04 22:00:45.391 -0400,postgres
+T20,Virginia SportsFest,2022,,,,,,,2022-10-16 15:22:34.917 -0400,postgres,2022-10-16 15:22:34.917 -0400,postgres
