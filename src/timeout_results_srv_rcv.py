@@ -36,15 +36,18 @@ def pullawsdata(tablename):
         try:
             cursor.execute(f"SELECT column_name FROM information_schema.columns where table_name='{tablename}';")
             cols=cursor.fetchall()
+            print(cols)
             cols = [cols[x][0] for x in range(len(cols))]
-            cursor.execute(f"SELECT * FROM pklm_prd.{tablename}")
+            print(cols)
+            cols = set(cols).symmetric_difference(["create_dtm","maint_dtm","dt_played"])
+            print(cols)
+            cursor.execute(f"DROP TABLE IF EXISTS cmmtemp; CREATE TEMP TABLE cmmtemp AS SELECT * FROM pklm_prd.{tablename}; ALTER TABLE cmmtemp DROP COLUMN IF EXISTS create_dtm,DROP COLUMN IF EXISTS maint_dtm,DROP COLUMN IF EXISTS dt_played;SELECT * FROM cmmtemp;")
             data=cursor.fetchall()
-            return(pd.DataFrame(data,columns=cols))
+            return(pd.DataFrame(data,columns=list(cols)))
         except Exception as inst:
             print(type(inst))    
             print(inst.args)     
             print(inst)
-
 
 # In[4]:
 
@@ -474,4 +477,3 @@ plt.show()
 fig, ax = plt.subplots(figsize=(14, 8))
 vio=plt.violinplot(skilldata,vert=0,showextrema=True,showmeans=True,widths=.8)
 plt.show()
-
