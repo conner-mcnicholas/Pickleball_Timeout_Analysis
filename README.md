@@ -9,12 +9,11 @@ Overall metrics across all timeouts, with TOboost capturing the change in rally 
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/total_metrics.png?raw=true)<br>
 
+Metrics grouped by skill level:<br>
+
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/skillmetrics.png?raw=true)<br>
 
-Metrics grouped by skill level:<br>
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/pklmart_data_entry.png?raw=true)<br>
-
-With raw data sourced from Alex Spancake's "pklmart" platform (www.pklmart.com):<br>
+All raw data sourced from Alex Spancake's "pklmart" platform (www.pklmart.com):<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/pklmart_data_entry.png?raw=true)<br>
 
