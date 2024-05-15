@@ -43,4 +43,4 @@ Pro teams ranked by effectiveness of timeouts, where timeout score is the produc
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/pro_timeout_rankings.png?raw=true)<br>
 
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/docs/pro_timeout_rankings.pdf?raw=true)<br>
+![Download in PDF for clearer image](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/docs/pro_timeout_rankings.pdf)<br>
