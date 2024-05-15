@@ -22,8 +22,12 @@ Data is stored in AWS  postgres database, pklm_prd schema:<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/schema_rels.png?raw=true)<br>
 
 Each timeout is individually scored based on the difference between the team' rallys win percentage before and after the timeout.<br>
-The rallies included in the calculation for any given timeout are the rallies before and after the timeout, bounded by the closest timeouts before and after, or the beginning/ends of the game.  Example calculations are provided for a sample game below, with rallies for one particular timeout highlighted in yellow in the figure on the left.  The figure on the right is just a more detailed record of the game's progress, including the server #, sideouts, etc.  Whereas the figure on the left is a simplified view with only the rally winners depicted:<br>
-Example:<br>
+
+The rallies included in the calculation for any given timeout are the rallies before and after the timeout, bounded by the closest timeouts before and after, or the beginning/ends of the game.  
+
+Example calculations are provided for a sample game below, with rallies for one particular timeout highlighted in yellow in the figure on the left.
+
+The figure on the right is just a more detailed record of the game's progress, including the server #, sideouts, etc.  Whereas the figure on the left is a simplified view with only the rally winners depicted:<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/example_calc.png?raw=true)<br>
 
