@@ -22,14 +22,14 @@ Example:<br>
 Box plot of data, including grouping by professional status:<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_30_0.png?raw=true)<br>
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_33_0.png?raw=true)<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_32_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_33_0.png?raw=true)<br>
 
 Same result set as viewed by histograms:<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_22_0.png?raw=true)<br>
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_23_0.png?raw=true)<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_24_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_23_0.png?raw=true)<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_26_0.png?raw=true)<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_27_0.png?raw=true)<br>
