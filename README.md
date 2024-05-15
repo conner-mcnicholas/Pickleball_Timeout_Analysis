@@ -5,6 +5,15 @@ An analysis to quantify the impact that timeouts have on a team's success, based
     -30315 rallies played over <br>
     -714 total games<br>
 
+Overall metrics across all timeouts, with TOboost capturing the change in rally win % with respect to rallies before and after each timeout.  Because serving and returning has an associated advantage, there are two additional suffixes metrics (_srv/_ret) that pertain to only serving and returning rallies compared in isolation:<br>
+
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/total_metrics.png?raw=true)<br>
+
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/skillmetrics.png?raw=true)<br>
+
+Metrics grouped by skill level:<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/pklmart_data_entry.png?raw=true)<br>
+
 With raw data sourced from Alex Spancake's "pklmart" platform (www.pklmart.com):<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/pklmart_data_entry.png?raw=true)<br>
