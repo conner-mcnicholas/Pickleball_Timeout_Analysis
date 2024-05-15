@@ -41,6 +41,7 @@ Effect on a serving opponents ability to maintain unbroken point scoring streaks
 
 Pro teams ranked by effectiveness of timeouts, where timeout score is the product of their (timeouts per game) and their (average rally win rate improvement after a timeouts), normalized from 0 to 100:<br>
 
+![See PDF version for clearer rendering](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/docs/pro_timeout_rankings.pdf)<br>
+
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/pro_timeout_rankings.png?raw=true)<br>
 
-![Download in PDF for clearer image](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/docs/pro_timeout_rankings.pdf)<br>
