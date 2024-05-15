@@ -16,14 +16,24 @@ Example:<br>
 
 Box plot of data, including grouping by professional status:<br>
 
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/split_boxplot.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_30_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_32_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_33_0.png?raw=true)<br>
 
-Same result set as viewed by histogram:<br>
+Same result set as viewed by histograms:<br>
 
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/split_histo.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_22_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_23_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_24_0.png?raw=true)<br>
 
-Teams ranked by effectiveness of timeouts:<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_26_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_27_0.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_28_0.png?raw=true)<br>
 
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/teams_timeouts_ranked.png?raw=true)<br>
+Effect on a serving opponents ability to maintain unbroken point scoring streaks (note that a streak of 0 in the far left columns essentially captures the general likelihood of a serving team winning any single rally. In that sense it reflects the disadvantage of being server, considering the rate is below 50%, and an even contest would be 50/50 for each side.):<br>
 
-TODO: Glean insight of serving specific momentum instead of weighting all rally wins uniformly.
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_21_1.png?raw=true)<br>
+
+Pro teams ranked by effectiveness of timeouts, where timeout score is the product of their (timeouts per game) and their (average rally win rate improvement after a timeouts), normalized from 0 to 100:<br>
+
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/pro_timeout_rankings.png?raw=true)<br>
