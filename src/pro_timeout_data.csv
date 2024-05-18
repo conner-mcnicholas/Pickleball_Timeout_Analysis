@@ -1,150 +1,164 @@
-team_id,team_nm,GP,gameWpct,TO,TOperGame,TOboost,TOboost_srv,TOboost_ret,toscore
-T13,Collin Johns & Ben Johns,33,78.8,2,0.1,26.1,10.8,37.2,46
-T65,Anna Leigh Waters & Catherine Parenteau,23,91.3,10,0.4,14.8,9.6,24.6,79
-T5,Matt Wright & Riley Newman,22,40.9,4,0.2,5.2,-6.8,11.8,35
-T71,Anna Leigh Waters & Anna Bright,20,90.0,9,0.4,23.1,16.5,36.0,100
-T147,Dylan Frazier & JW Johnson,14,64.3,0,0.0,0.0,0.0,0.0,28
-T2,Anna Leigh Waters & Leigh Waters,13,69.2,9,0.7,9.6,12.1,6.6,58
-T67,Anna Leigh Waters & Ben Johns,13,61.5,6,0.5,2.0,3.3,6.4,32
-T132,Anna Bright & James Ignatowich,11,36.4,7,0.6,7.7,10.1,8.0,47
-T245,Allyce Jones & Callie Smith,11,45.5,3,0.3,9.8,19.5,8.7,38
-T145,Pablo Tellez & Federico Staksrud,9,33.3,2,0.2,6.2,9.7,3.8,32
-T482,Allyce Jones & Lauren Stratman,9,11.1,0,0.0,0.0,0.0,0.0,28
-T151,Parris Todd & Catherine Parenteau,8,62.5,7,0.9,13.2,21.5,13.5,60
-T7,Thomas Wilson & AJ Koller,8,50.0,4,0.5,13.6,12.4,19.1,47
-T108,Allyce Jones & Lea Jansen,7,28.6,13,1.9,13.2,28.8,9.8,87
-T133,Anna Leigh Waters & Jack Sock,7,71.4,3,0.4,37.8,55.8,24.1,67
-T1,Jesse Irvine & Catherine Parenteau,6,16.7,3,0.5,3.8,1.1,6.0,32
-T104,Josh Jenkins & Bill Kacergis,6,33.3,3,0.5,-27.9,-17.0,-42.4,0
-T269,Dylan Godwin & James Broker,6,50.0,1,0.2,-15.0,0.0,-21.7,23
-T250,Jade Kawamoto & Jackie Kawamoto,5,60.0,6,1.2,17.4,4.2,25.4,64
-T4,Tyler Loong & Tyson McGuffin,5,20.0,6,1.2,-2.3,0.9,-10.6,23
-T148,Vivienne David & Jorja Johnson,5,0.0,0,0.0,0.0,0.0,0.0,28
-T483,Rachel Rohrabacher & Anna Bright,5,80.0,0,0.0,0.0,0.0,0.0,28
-T77,Lauren Stratman & Julian Arnold,4,25.0,7,1.8,7.4,-2.1,16.8,46
-T109,Lea Jansen & Jackie Kawamoto,4,25.0,6,1.5,6.9,17.7,8.6,42
-T72,Jessie Irvine & Jackie Kawamoto,4,25.0,5,1.2,25.5,27.6,19.3,72
-T3,Lea Jansen & Catherine Parenteau,4,50.0,5,1.2,10.7,17.1,-10.5,47
-T69,AJ Koller & Dekel Bar,4,50.0,4,1.0,-3.5,18.3,-8.3,23
-T85,Stefan Auvergne & Sam Querrey,4,75.0,2,0.5,11.4,-17.3,32.4,36
-T76,Catherine Parenteau & James Ignatowich,4,75.0,0,0.0,0.0,0.0,0.0,28
-T88,Pablo Tellez & Christian Alshon,4,100.0,0,0.0,0.0,0.0,0.0,28
-T398,Vivienne David & Lacy Schneemann,4,75.0,0,0.0,0.0,0.0,0.0,28
-T569,Hurricane Tyra Black & Dylan Frazier,4,75.0,0,0.0,0.0,0.0,0.0,28
-T116,Richard Livornese Jr & Frank Anthony Davis,3,33.3,4,1.3,3.9,20.4,-0.1,34
-T101,Lucy Kovalova & Callie Smith,3,0.0,4,1.3,-3.3,30.0,-7.2,24
-T134,Vivienne David & Julian Arnold,3,33.3,3,1.0,34.9,30.6,46.2,64
-T142,Yana Grechkina & Lauren Stratman,3,0.0,3,1.0,4.6,25.4,-19.2,33
-T287,Joey Farias & Shellton Jean Baptiste,3,0.0,3,1.0,2.1,-5.6,2.1,30
-T95,Jade Kawamoto & Lacy Schneemann,3,0.0,3,1.0,-10.3,12.5,-22.1,18
-T106,Vivienne David & Meghan Sheehan-Dizon,3,0.0,3,1.0,-16.3,-26.1,-17.0,11
-T86,CJ Klinger & Yates Johnson,3,0.0,3,1.0,-16.7,-26.2,-3.7,11
-T66,Vivienne David & Anna Bright,3,0.0,3,1.0,-19.7,2.4,-26.7,8
-T46,Dekel Bar & Adam Stone,3,33.3,3,1.0,-22.0,-8.0,-30.6,6
-T193,Judit Castillo Gargallo & Shelby Bates,3,66.7,2,0.7,29.2,30.0,28.8,48
-T278,Lea Jansen & Federico Staksrud,3,33.3,2,0.7,22.2,25.0,33.6,43
-T154,Rafa Hewitt & Dylan Frazier,3,66.7,2,0.7,18.6,12.4,22.8,41
-T68,Jorja Johnson & JW Johnson,3,66.7,2,0.7,13.4,28.4,-6.6,37
-T204,Stefan Auvergne & Shelby Bates,3,66.7,2,0.7,5.0,-4.6,10.0,32
-T42,Bill Kacergis & Arpit Dhir,3,33.3,2,0.7,1.5,-10.7,13.6,29
-T350,James Ignatowich & Tyson McGuffin,3,0.0,2,0.7,-2.2,-8.4,5.0,27
-T198,Vivian Glozman & Christian Alshon,3,66.7,1,0.3,16.0,7.0,30.6,34
-T73,Zane Navratil & Matt Wright,3,0.0,1,0.3,14.8,-8.3,38.1,33
-T23,Ross Whittaker & Grant Johnston,3,33.3,1,0.3,4.1,-5.0,8.3,30
-T201,Judit Castillo Gargallo & Sam Querrey,3,33.3,1,0.3,0.8,13.3,-6.7,28
-T22,Jimbo Peterson & David McNally,3,66.7,1,0.3,-10.0,1.7,-21.9,25
-T47,Steve Deakin & Matt Wright,3,66.7,1,0.3,-11.4,-35.3,-2.4,24
-T43,Chuck Taylor & AJ Koller,3,66.7,0,0.0,0.0,0.0,0.0,28
-T363,Christian Keenum & Tyler Tolson,3,66.7,0,0.0,0.0,0.0,0.0,28
-T393,Rachel Summers & Genie Erokhina,3,0.0,0,0.0,0.0,0.0,0.0,28
-T591,Allyce Jones & Jack Sock,3,33.3,0,0.0,0.0,0.0,0.0,28
-T592,Callie Smith & Anna Bright,3,66.7,0,0.0,0.0,0.0,0.0,28
-T593,Allyce Jones & Hurricane Tyra Black,3,33.3,0,0.0,0.0,0.0,0.0,28
-T137,Anna Bright & Vivian Glozman,2,0.0,4,2.0,0.2,-17.5,1.8,28
-T25,Paul Olin & Dave Fleming,2,0.0,4,2.0,-11.6,52.6,-11.2,12
-T8,Allyce Jones & Meghan Sheehan-Dizon,2,0.0,3,1.5,15.4,5.2,29.0,44
-T107,Meghan Sheehan-Dizon & Etta Wright,2,0.0,3,1.5,1.3,16.6,3.4,30
-T279,Meghan Sheehan-Dizon & Anna Bright,2,0.0,3,1.5,-4.8,16.6,-14.2,23
-T280,Callie Smith & Dylan Frazier,2,0.0,3,1.5,-16.7,-31.4,-9.8,11
-T18,Collin Johns & AJ Koller,2,50.0,2,1.0,38.6,35.9,44.4,55
-T185,Rob Nunnery & Austin Gridley,2,0.0,2,1.0,29.0,22.2,37.2,48
-T6,Wyatt Stone & Hayden Patriquin,2,0.0,2,1.0,-28.6,-31.2,-31.0,9
-T9,Jesse Irvine & Anna Bright,2,100.0,1,0.5,60.0,100.0,20.0,49
-T17,Ben Johns & Tyler Loong,2,50.0,1,0.5,50.0,57.9,0.0,45
-T186,William Sobek & Ryler DeHeart,2,100.0,1,0.5,28.6,26.2,35.7,38
-T217,Greg Dow & Rob Nunnery,2,50.0,1,0.5,20.9,42.5,3.3,35
-T214,Martina Frantova & Hurricane Tyra Black,2,50.0,1,0.5,16.7,4.3,30.0,34
-T102,Catherine Parenteau & Jorja Johnson,2,0.0,1,0.5,-2.7,-33.3,14.2,27
-T194,Bobbi Oshiro & Rachel Rettger,2,0.0,1,0.5,-3.1,-9.4,0.0,27
-T26,Chris Mills Miller & John Sperling,2,100.0,0,0.0,0.0,0.0,0.0,28
-T30,Monica Paolicelli & Alix Truong,2,0.0,0,0.0,0.0,0.0,0.0,28
-T31,Vivienne David & Lauren Stratman,2,100.0,0,0.0,0.0,0.0,0.0,28
-T70,Rafa Hewett & Zane Navratil,2,0.0,0,0.0,0.0,0.0,0.0,28
-T118,Johnny Goldberg & Erik Forsythe,2,100.0,0,0.0,0.0,0.0,0.0,28
-T195,Callan Dawson & Todd Fought,2,50.0,0,0.0,0.0,0.0,0.0,28
-T253,Rianna Valdes & Erik Pailet,2,0.0,0,0.0,0.0,0.0,0.0,28
-T254,Lindsey Newman & Riley Newman,2,100.0,0,0.0,0.0,0.0,0.0,28
-T351,Matt Wright & Ben Johns,2,50.0,0,0.0,0.0,0.0,0.0,28
-T353,Allyce Jones & Riley Newman,2,50.0,0,0.0,0.0,0.0,0.0,28
-T366,Parris Todd & Anna Bright,2,50.0,0,0.0,0.0,0.0,0.0,28
-T370,Hayden Patriquin & Tyson McGuffin,2,0.0,0,0.0,0.0,0.0,0.0,28
-T371,Riley Newman & Parris Todd,2,50.0,0,0.0,0.0,0.0,0.0,28
-T551,Tyler Loong & Connor Garnett,2,100.0,0,0.0,0.0,0.0,0.0,28
-T552,Callan Dawson & Hayden Patriquin,2,0.0,0,0.0,0.0,0.0,0.0,28
-T557,Andrea Koop & Tina Pisnik,2,100.0,0,0.0,0.0,0.0,0.0,28
-T15,Vivienne David & Lauren Stratman,1,0.0,2,2.0,25.7,19.8,33.6,46
-T261,Sunny Buttar & Brett Forsythe,1,0.0,2,2.0,11.9,31.4,9.0,36
-T34,Collin Johns & Dekel Bar,1,0.0,2,2.0,6.6,-16.7,33.4,33
-T358,Chris Mills Miller & Stefan Andren,1,0.0,2,2.0,4.6,15.0,-4.1,31
-T570,Megan Fudge & Andrei Daescu,1,0.0,2,2.0,-1.2,-10.0,2.8,27
-T262,Haddow Thul & Joel Pelletier,1,100.0,1,1.0,66.7,75.0,60.0,51
-T16,Anna Bright & Jorja Johnson,1,100.0,1,1.0,36.7,46.7,26.7,41
-T474,Rafa Hewett & Dylan Frazier,1,100.0,1,1.0,33.3,33.3,33.3,40
-T75,Collin Johns & Travis Rettenmaier,1,100.0,1,1.0,32.1,33.4,50.0,39
-T35,Jay Devilliers & Patrick Smith,1,100.0,1,1.0,30.0,61.5,4.2,38
-T20,Irina Tereschenko & Catherine Parenteau,1,0.0,1,1.0,21.8,15.7,28.5,36
-T203,Phillip Locklear & Hunter Johnson,1,0.0,1,1.0,18.2,32.1,7.2,34
-T119,Hayden Patriquin & James Ignatowich,1,100.0,1,1.0,18.1,7.1,32.9,34
-T161,Jib Chattrabhuti & Alex Guy,1,100.0,1,1.0,17.9,-2.1,50.0,34
-T208,Ryler DeHeart & Connor Garnett,1,0.0,1,1.0,11.9,20.7,7.1,32
-T311,Manny Lai & Alexander Szczepkowski,1,100.0,1,1.0,10.8,-1.2,22.7,32
-T200,Patrick Smith & Scott Doerner,1,0.0,1,1.0,9.2,3.2,21.7,31
-T258,Leigh Bradwell & Jordann Vigna,1,100.0,1,1.0,8.0,-3.8,16.7,31
-T223,Ben Newell & Jill Braverman,1,0.0,1,1.0,4.3,-6.2,17.1,30
-T202,Rachel Rettger & Todd Fought,1,0.0,1,1.0,2.2,9.2,-2.9,29
-T220,Ben Newell & Daniel De La Rosa,1,0.0,1,1.0,-0.8,-10.7,7.1,28
-T199,Scott Doerner & Tina Pisnik,1,0.0,1,1.0,-10.9,-6.7,-16.2,24
-T14,Callan Dawson & Spencer Smith,1,0.0,1,1.0,-14.7,-25.5,-13.9,23
-T188,Ryler DeHeart & Sarah Ansboury,1,0.0,1,1.0,-16.6,0.0,-30.7,23
-T549,Collin Johns & Matt Wright,1,0.0,1,1.0,-17.8,-50.0,-4.7,22
-T213,Greg Dow & Hurricane Tyra Black,1,0.0,1,1.0,-33.3,0.0,-42.9,17
-T349,AJ Koller & Riley Newman,1,0.0,1,1.0,-43.2,0.0,-55.0,13
-T21,Jesse Irvine & Lucy Kovalova,1,100.0,1,1.0,-50.9,-42.9,0.0,11
-T10,Greg Dow & Anderson Scarpa,1,100.0,0,0.0,0.0,0.0,0.0,28
-T19,Lauren Stratman & Irina Tereschenko,1,0.0,0,0.0,0.0,0.0,0.0,28
-T74,Thomas Wilson & Julian Arnold,1,100.0,0,0.0,0.0,0.0,0.0,28
-T83,Stefan Auvergne & AJ Koller,1,100.0,0,0.0,0.0,0.0,0.0,28
-T87,Rob Cassidy & Spencer Smith,1,100.0,0,0.0,0.0,0.0,0.0,28
-T117,Christian Keenum & Moo Venkatasen,1,100.0,0,0.0,0.0,0.0,0.0,28
-T120,Dylan Frazier & Federico Staksrud,1,0.0,0,0.0,0.0,0.0,0.0,28
-T162,Jhonnatan Medina Alvarez & Pierina Imparato,1,0.0,0,0.0,0.0,0.0,0.0,28
-T187,Mary Brascia & Erik Lange,1,100.0,0,0.0,0.0,0.0,0.0,28
-T205,Bobbi Oshiro & Callan Dawson,1,100.0,0,0.0,0.0,0.0,0.0,28
-T207,Ryler DeHeart & Emily Ackerman,1,100.0,0,0.0,0.0,0.0,0.0,28
-T209,Milan Rane & Phillip Locklear,1,0.0,0,0.0,0.0,0.0,0.0,28
-T212,Martina Frantova & Rob Nunnery,1,100.0,0,0.0,0.0,0.0,0.0,28
-T224,Christa Gecheva & Daniel De La Rosa,1,100.0,0,0.0,0.0,0.0,0.0,28
-T225,Christa Gecheva & Jill Braverman,1,100.0,0,0.0,0.0,0.0,0.0,28
-T257,Vicky Strandlund & Angie Walker,1,0.0,0,0.0,0.0,0.0,0.0,28
-T263,Steve Deakin & Travis Rettenmaier,1,0.0,0,0.0,0.0,0.0,0.0,28
-T274,Mark Cleminson & Christina Chin,1,0.0,0,0.0,0.0,0.0,0.0,28
-T275,Kim Brent & Steve Deakin,1,100.0,0,0.0,0.0,0.0,0.0,28
-T276,Steve Deakin & Pat Smith,1,0.0,0,0.0,0.0,0.0,0.0,28
-T277,Brandon French & Chuck Taylor,1,100.0,0,0.0,0.0,0.0,0.0,28
-T310,Steve Deakin & Spencer Smith,1,0.0,0,0.0,0.0,0.0,0.0,28
-T352,Vivienne David & Andrea Koop,1,0.0,0,0.0,0.0,0.0,0.0,28
-T357,Wesley Gabrielsen & Erik Lange,1,100.0,0,0.0,0.0,0.0,0.0,28
-T375,Tyler Loong & AJ Koller,1,0.0,0,0.0,0.0,0.0,0.0,28
-T376,Jesse Irvine & Irina Tereschenko,1,100.0,0,0.0,0.0,0.0,0.0,28
-T400,Catherine Parenteau & Andrea Koop,1,100.0,0,0.0,0.0,0.0,0.0,28
-T550,Thomas Wilson & Christian Alshon,1,100.0,0,0.0,0.0,0.0,0.0,28
+team_id,team_nm,GP,gameWpct,TO,TOperGame,TOboost_adj,TOboost,TOboost_srv,TOboost_ret,toscore,toscore_adj
+T15,Vivienne David & Lauren Stratman,1,0.0,2,2.0,26.4,25.7,19.8,33.6,46,47
+T261,Sunny Buttar & Brett Forsythe,1,0.0,2,2.0,10.2,11.9,31.4,9.0,36,36
+T34,Collin Johns & Dekel Bar,1,0.0,2,2.0,6.1,6.6,-16.7,33.4,33,33
+T358,Chris Mills Miller & Stefan Andren,1,0.0,2,2.0,4.2,4.6,15.0,-4.1,31,32
+T137,Anna Bright & Vivian Glozman,2,0.0,4,2.0,-2.5,0.2,-17.5,1.8,28,26
+T570,Megan Fudge & Andrei Daescu,1,0.0,2,2.0,-1.3,-1.2,-10.0,2.8,27,28
+T25,Paul Olin & Dave Fleming,2,0.0,4,2.0,-12.7,-11.6,52.6,-11.2,12,12
+T108,Allyce Jones & Lea Jansen,7,28.6,13,1.9,13.2,13.2,28.8,9.8,87,86
+T77,Lauren Stratman & Julian Arnold,4,25.0,7,1.8,7.7,7.4,-2.1,16.8,46,47
+T8,Allyce Jones & Meghan Sheehan-Dizon,2,0.0,3,1.5,16.3,15.4,5.2,29.0,44,45
+T109,Lea Jansen & Jackie Kawamoto,4,25.0,6,1.5,7.0,6.9,17.7,8.6,42,43
+T107,Meghan Sheehan-Dizon & Etta Wright,2,0.0,3,1.5,0.9,1.3,16.6,3.4,30,30
+T279,Meghan Sheehan-Dizon & Anna Bright,2,0.0,3,1.5,-6.8,-4.8,16.6,-14.2,23,22
+T280,Callie Smith & Dylan Frazier,2,0.0,3,1.5,-19.6,-16.7,-31.4,-9.8,11,9
+T116,Richard Livornese Jr & Frank Anthony Davis,3,33.3,4,1.3,3.8,3.9,20.4,-0.1,34,34
+T101,Lucy Kovalova & Callie Smith,3,0.0,4,1.3,-4.5,-3.3,30.0,-7.2,24,23
+T72,Jessie Irvine & Jackie Kawamoto,4,25.0,5,1.2,27.1,25.5,27.6,19.3,72,74
+T250,Jade Kawamoto & Jackie Kawamoto,5,60.0,6,1.2,18.8,17.4,4.2,25.4,64,67
+T3,Lea Jansen & Catherine Parenteau,4,50.0,5,1.2,11.4,10.7,17.1,-10.5,47,48
+T4,Tyler Loong & Tyson McGuffin,5,20.0,6,1.2,-3.5,-2.3,0.9,-10.6,23,22
+T262,Haddow Thul & Joel Pelletier,1,100.0,1,1.0,69.4,66.7,75.0,60.0,51,52
+T18,Collin Johns & AJ Koller,2,50.0,2,1.0,43.0,38.6,35.9,44.4,55,58
+T16,Anna Bright & Jorja Johnson,1,100.0,1,1.0,36.7,36.7,46.7,26.7,41,41
+T134,Vivienne David & Julian Arnold,3,33.3,3,1.0,34.9,34.9,30.6,46.2,64,64
+T474,Rafa Hewett & Dylan Frazier,1,100.0,1,1.0,33.3,33.3,33.3,33.3,40,40
+T75,Collin Johns & Travis Rettenmaier,1,100.0,1,1.0,36.1,32.1,33.4,50.0,39,41
+T35,Jay Devilliers & Patrick Smith,1,100.0,1,1.0,28.5,30.0,61.5,4.2,38,39
+T185,Rob Nunnery & Austin Gridley,2,0.0,2,1.0,32.4,29.0,22.2,37.2,48,51
+T20,Irina Tereschenko & Catherine Parenteau,1,0.0,1,1.0,23.4,21.8,15.7,28.5,36,37
+T203,Phillip Locklear & Hunter Johnson,1,0.0,1,1.0,19.9,18.2,32.1,7.2,34,36
+T119,Hayden Patriquin & James Ignatowich,1,100.0,1,1.0,19.0,18.1,7.1,32.9,34,35
+T161,Jib Chattrabhuti & Alex Guy,1,100.0,1,1.0,19.4,17.9,-2.1,50.0,34,36
+T208,Ryler DeHeart & Connor Garnett,1,0.0,1,1.0,12.8,11.9,20.7,7.1,32,33
+T311,Manny Lai & Alexander Szczepkowski,1,100.0,1,1.0,10.6,10.8,-1.2,22.7,32,33
+T200,Patrick Smith & Scott Doerner,1,0.0,1,1.0,10.3,9.2,3.2,21.7,31,33
+T258,Leigh Bradwell & Jordann Vigna,1,100.0,1,1.0,6.5,8.0,-3.8,16.7,31,31
+T142,Yana Grechkina & Lauren Stratman,3,0.0,3,1.0,4.0,4.6,25.4,-19.2,33,33
+T223,Ben Newell & Jill Braverman,1,0.0,1,1.0,4.8,4.3,-6.2,17.1,30,31
+T202,Rachel Rettger & Todd Fought,1,0.0,1,1.0,2.5,2.2,9.2,-2.9,29,30
+T287,Joey Farias & Shellton Jean Baptiste,3,0.0,3,1.0,1.1,2.1,-5.6,2.1,30,30
+T220,Ben Newell & Daniel De La Rosa,1,0.0,1,1.0,-0.9,-0.8,-10.7,7.1,28,29
+T69,AJ Koller & Dekel Bar,4,50.0,4,1.0,-5.0,-3.5,18.3,-8.3,23,22
+T95,Jade Kawamoto & Lacy Schneemann,3,0.0,3,1.0,-12.4,-10.3,12.5,-22.1,18,17
+T199,Scott Doerner & Tina Pisnik,1,0.0,1,1.0,-12.2,-10.9,-6.7,-16.2,24,25
+T14,Callan Dawson & Spencer Smith,1,0.0,1,1.0,-17.9,-14.7,-25.5,-13.9,23,23
+T106,Vivienne David & Meghan Sheehan-Dizon,3,0.0,3,1.0,-17.5,-16.3,-26.1,-17.0,11,12
+T188,Ryler DeHeart & Sarah Ansboury,1,0.0,1,1.0,-21.1,-16.6,0.0,-30.7,23,22
+T86,CJ Klinger & Yates Johnson,3,0.0,3,1.0,-18.8,-16.7,-26.2,-3.7,11,10
+T549,Collin Johns & Matt Wright,1,0.0,1,1.0,-20.0,-17.8,-50.0,-4.7,22,22
+T66,Vivienne David & Anna Bright,3,0.0,3,1.0,-21.6,-19.7,2.4,-26.7,8,7
+T46,Dekel Bar & Adam Stone,3,33.3,3,1.0,-24.8,-22.0,-8.0,-30.6,6,4
+T6,Wyatt Stone & Hayden Patriquin,2,0.0,2,1.0,-32.2,-28.6,-31.2,-31.0,9,8
+T213,Greg Dow & Hurricane Tyra Black,1,0.0,1,1.0,-38.5,-33.3,0.0,-42.9,17,16
+T349,AJ Koller & Riley Newman,1,0.0,1,1.0,-48.9,-43.2,0.0,-55.0,13,13
+T21,Jesse Irvine & Lucy Kovalova,1,100.0,1,1.0,-44.8,-50.9,-42.9,0.0,11,14
+T151,Parris Todd & Catherine Parenteau,8,62.5,7,0.9,13.1,13.2,21.5,13.5,60,60
+T193,Judit Castillo Gargallo & Shelby Bates,3,66.7,2,0.7,30.6,29.2,30.0,28.8,48,49
+T278,Lea Jansen & Federico Staksrud,3,33.3,2,0.7,23.9,22.2,25.0,33.6,43,45
+T154,Rafa Hewitt & Dylan Frazier,3,66.7,2,0.7,18.2,18.6,12.4,22.8,41,41
+T68,Jorja Johnson & JW Johnson,3,66.7,2,0.7,14.8,13.4,28.4,-6.6,37,39
+T2,Anna Leigh Waters & Leigh Waters,13,69.2,9,0.7,9.1,9.6,12.1,6.6,58,56
+T204,Stefan Auvergne & Shelby Bates,3,66.7,2,0.7,4.8,5.0,-4.6,10.0,32,32
+T42,Bill Kacergis & Arpit Dhir,3,33.3,2,0.7,1.4,1.5,-10.7,13.6,29,30
+T350,James Ignatowich & Tyson McGuffin,3,0.0,2,0.7,-1.2,-2.2,-8.4,5.0,27,28
+T132,Anna Bright & James Ignatowich,11,36.4,7,0.6,8.7,7.7,10.1,8.0,47,49
+T9,Jesse Irvine & Anna Bright,2,100.0,1,0.5,61.2,60.0,100.0,20.0,49,49
+T17,Ben Johns & Tyler Loong,2,50.0,1,0.5,56.5,50.0,57.9,0.0,45,48
+T186,William Sobek & Ryler DeHeart,2,100.0,1,0.5,29.5,28.6,26.2,35.7,38,39
+T217,Greg Dow & Rob Nunnery,2,50.0,1,0.5,22.1,20.9,42.5,3.3,35,36
+T214,Martina Frantova & Hurricane Tyra Black,2,50.0,1,0.5,17.1,16.7,4.3,30.0,34,35
+T7,Thomas Wilson & AJ Koller,8,50.0,4,0.5,14.6,13.6,12.4,19.1,47,49
+T85,Stefan Auvergne & Sam Querrey,4,75.0,2,0.5,10.9,11.4,-17.3,32.4,36,36
+T1,Jesse Irvine & Catherine Parenteau,6,16.7,3,0.5,1.6,3.8,1.1,6.0,32,31
+T67,Anna Leigh Waters & Ben Johns,13,61.5,6,0.5,2.0,2.0,3.3,6.4,32,33
+T102,Catherine Parenteau & Jorja Johnson,2,0.0,1,0.5,-3.0,-2.7,-33.3,14.2,27,28
+T194,Bobbi Oshiro & Rachel Rettger,2,0.0,1,0.5,-3.5,-3.1,-9.4,0.0,27,28
+T104,Josh Jenkins & Bill Kacergis,6,33.3,3,0.5,-29.6,-27.9,-17.0,-42.4,0,0
+T133,Anna Leigh Waters & Jack Sock,7,71.4,3,0.4,37.8,37.8,55.8,24.1,67,67
+T71,Anna Leigh Waters & Anna Bright,20,90.0,9,0.4,23.5,23.1,16.5,36.0,100,100
+T65,Anna Leigh Waters & Catherine Parenteau,23,91.3,10,0.4,14.3,14.8,9.6,24.6,79,77
+T198,Vivian Glozman & Christian Alshon,3,66.7,1,0.3,18.0,16.0,7.0,30.6,34,35
+T73,Zane Navratil & Matt Wright,3,0.0,1,0.3,16.2,14.8,-8.3,38.1,33,34
+T245,Allyce Jones & Callie Smith,11,45.5,3,0.3,11.2,9.8,19.5,8.7,38,40
+T23,Ross Whittaker & Grant Johnston,3,33.3,1,0.3,3.4,4.1,-5.0,8.3,30,30
+T201,Judit Castillo Gargallo & Sam Querrey,3,33.3,1,0.3,-0.1,0.8,13.3,-6.7,28,29
+T22,Jimbo Peterson & David McNally,3,66.7,1,0.3,-11.2,-10.0,1.7,-21.9,25,25
+T47,Steve Deakin & Matt Wright,3,66.7,1,0.3,-12.8,-11.4,-35.3,-2.4,24,25
+T145,Pablo Tellez & Federico Staksrud,9,33.3,2,0.2,6.2,6.2,9.7,3.8,32,33
+T5,Matt Wright & Riley Newman,22,40.9,4,0.2,5.9,5.2,-6.8,11.8,35,37
+T269,Dylan Godwin & James Broker,6,50.0,1,0.2,-19.9,-15.0,0.0,-21.7,23,22
+T13,Collin Johns & Ben Johns,33,78.8,2,0.1,28.9,26.1,10.8,37.2,46,48
+T10,Greg Dow & Anderson Scarpa,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T19,Lauren Stratman & Irina Tereschenko,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T26,Chris Mills Miller & John Sperling,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T30,Monica Paolicelli & Alix Truong,2,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T31,Vivienne David & Lauren Stratman,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T43,Chuck Taylor & AJ Koller,3,66.7,0,0.0,0.0,0.0,0.0,0.0,28,29
+T70,Rafa Hewett & Zane Navratil,2,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T74,Thomas Wilson & Julian Arnold,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T76,Catherine Parenteau & James Ignatowich,4,75.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T83,Stefan Auvergne & AJ Koller,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T87,Rob Cassidy & Spencer Smith,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T88,Pablo Tellez & Christian Alshon,6,83.3,0,0.0,0.0,0.0,0.0,0.0,28,29
+T117,Christian Keenum & Moo Venkatasen,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T118,Johnny Goldberg & Erik Forsythe,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T120,Dylan Frazier & Federico Staksrud,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T147,Dylan Frazier & JW Johnson,14,64.3,0,0.0,0.0,0.0,0.0,0.0,28,29
+T148,Vivienne David & Jorja Johnson,5,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T162,Jhonnatan Medina Alvarez & Pierina Imparato,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T187,Mary Brascia & Erik Lange,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T195,Callan Dawson & Todd Fought,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T205,Bobbi Oshiro & Callan Dawson,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T207,Ryler DeHeart & Emily Ackerman,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T209,Milan Rane & Phillip Locklear,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T212,Martina Frantova & Rob Nunnery,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T224,Christa Gecheva & Daniel De La Rosa,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T225,Christa Gecheva & Jill Braverman,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T253,Rianna Valdes & Erik Pailet,2,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T254,Lindsey Newman & Riley Newman,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T257,Vicky Strandlund & Angie Walker,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T263,Steve Deakin & Travis Rettenmaier,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T274,Mark Cleminson & Christina Chin,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T275,Kim Brent & Steve Deakin,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T276,Steve Deakin & Pat Smith,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T277,Brandon French & Chuck Taylor,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T310,Steve Deakin & Spencer Smith,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T351,Matt Wright & Ben Johns,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T352,Vivienne David & Andrea Koop,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T353,Allyce Jones & Riley Newman,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T357,Wesley Gabrielsen & Erik Lange,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T363,Christian Keenum & Tyler Tolson,3,66.7,0,0.0,0.0,0.0,0.0,0.0,28,29
+T366,Parris Todd & Anna Bright,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T370,Hayden Patriquin & Tyson McGuffin,2,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T371,Riley Newman & Parris Todd,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T375,Tyler Loong & AJ Koller,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T376,Jesse Irvine & Irina Tereschenko,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T393,Rachel Summers & Genie Erokhina,3,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T398,Vivienne David & Lacy Schneemann,4,75.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T400,Catherine Parenteau & Andrea Koop,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T482,Allyce Jones & Lauren Stratman,9,11.1,0,0.0,0.0,0.0,0.0,0.0,28,29
+T483,Rachel Rohrabacher & Anna Bright,5,80.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T550,Thomas Wilson & Christian Alshon,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T551,Tyler Loong & Connor Garnett,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T552,Callan Dawson & Hayden Patriquin,2,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T557,Andrea Koop & Tina Pisnik,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T569,Hurricane Tyra Black & Dylan Frazier,4,75.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T591,Allyce Jones & Jack Sock,3,33.3,0,0.0,0.0,0.0,0.0,0.0,28,29
+T592,Callie Smith & Anna Bright,3,66.7,0,0.0,0.0,0.0,0.0,0.0,28,29
+T593,Allyce Jones & Hurricane Tyra Black,3,33.3,0,0.0,0.0,0.0,0.0,0.0,28,29
+T603,Pablo Tellez & Etta Wright,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T604,Meghan Sheehan-Dizon & Connor Garnett,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T605,Tina Pisnik & Christian Alshon,2,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T606,Brooke Buckner & Riley Newman,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T607,Riley Newman & Connor Garnett,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T608,Tina Pisnik & Etta Wright,2,50.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T609,Brooke Buckner & Meghan Sheehan-Dizon,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T610,Allyce Jones & Rachel Rohrabacher,2,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T611,Meghan Dizon & Brooke Buckner,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T612,Jorja Johnson & Hurricane Tyra Black,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T613,Kate Fahey & Anna Bright,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T614,Anna Bright & Hayden Patriquin,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T615,Kate Fahey & Gabriel Tardio,1,0.0,0,0.0,0.0,0.0,0.0,0.0,28,29
+T616,Gabriel Tardio & Hayden Patriquin,1,100.0,0,0.0,0.0,0.0,0.0,0.0,28,29
