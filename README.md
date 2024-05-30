@@ -1,23 +1,23 @@
 # pickleball_analysis
   
-An analysis to quantify the impact that timeouts have on a team's success, based on:<br>
-    -389 timeouts included in <br>
-    -30315 rallies played over <br>
-    -714 total games<br>
+Analysing a dataset of:<br>
+    -389 timeouts within <br>
+    -30315 rallies over <br>
+    -714 games<br>
 
-Based on the percent of rallies won before and after timeouts, results indicate taking a timeout improves performance by on average roughly 8%.
+Comparing the timeout-calling team's rally win rates before and after the timeout, results indicate taking a timeout improves performance by approximately 8%, on average.
 
 That improvement rate is captured by the metric "TOboost" in the table below.  Because the serving side is at a disadvantage (winning only 42% of all rallies), the suffixes _srv and _ret pertain to only serving and returning rallies, respectively.<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/total_metrics.png?raw=true)<br>
 
-Metrics grouped by skill level:<br>
+Summary statistics grouped by skill level:<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/skillmetrics.png?raw=true)<br>
 
 Each timeout is individually scored based on the difference between the team' rallys win percentage before and after the timeout.<br>
 
-The rallies included in the calculation for any given timeout are rallies in the game (not match) before and after the timeout, bounded by any other timeouts.  Bounding by other timeouts seems reasonable because they offer an opportunity to change strategies, and thus counteract the impact of the timeout at hand.
+The rallies included in the calculation for any given timeout are rallies in the game (not match) before and after the timeout, bounded by any other timeouts.  This bounding was applied because other timeouts are opportunities to change strategy, and thus counteract the impact of the timeout at hand.
 
 Example calculations are provided for a sample game below, with rallies for one particular timeout highlighted in yellow in the figure on the left.
 
@@ -31,7 +31,7 @@ Box plot of data, including grouping by professional status:<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_32_0.png?raw=true)<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_33_0.png?raw=true)<br>
 
-Same result set as viewed by histograms:<br>
+Same results illustrated using histograms:<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_22_0.png?raw=true)<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_24_0.png?raw=true)<br>
@@ -41,7 +41,7 @@ Same result set as viewed by histograms:<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_27_0.png?raw=true)<br>
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_28_0.png?raw=true)<br>
 
-Effect on a serving opponents ability to maintain unbroken point scoring streaks (note that a streak of 0 in the far left columns essentially captures the general likelihood of a serving team winning any single rally. In that sense it reflects the disadvantage of being server, considering the rate is below 50%, and an even contest would be 50/50 for each side.):<br>
+Effect of timeouts on unbroken point scoring streaks, i.e. consecutive rallies won by serving team. (note that a streak of 0 in the far left columns essentially reflects the disadvantage of being server, as the percentage of 0-length serving win streaks is indeed the percent of all rallies won by serving team, and it is below the 50% for a fair contest.<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/output_21_1.png?raw=true)<br>
 
