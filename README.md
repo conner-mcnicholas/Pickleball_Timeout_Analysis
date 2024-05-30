@@ -5,7 +5,9 @@ An analysis to quantify the impact that timeouts have on a team's success, based
     -30315 rallies played over <br>
     -714 total games<br>
 
-Overall metrics across all timeouts, with TOboost capturing the change in rally win % with respect to rallies before and after each timeout.  Because serving and returning has an associated advantage, there are two additional suffixes metrics (_srv/_ret) that pertain to only serving and returning rallies compared in isolation:<br>
+Based on the percent of rallies won before and after timeouts, results indicate taking a timeout improves performance by on average roughly 8%.
+
+That improvement rate is captured by the metric "TOboost" in the table below.  Because the serving side is at a disadvantage (winning only 42% of all rallies), the suffixes _srv and _ret pertain to only serving and returning rallies, respectively.<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/total_metrics.png?raw=true)<br>
 
@@ -23,7 +25,7 @@ Data is stored in AWS  postgres database, pklm_prd schema:<br>
 
 Each timeout is individually scored based on the difference between the team' rallys win percentage before and after the timeout.<br>
 
-The rallies included in the calculation for any given timeout are the rallies before and after the timeout, bounded by the closest timeouts before and after, or the beginning/ends of the game.  
+The rallies included in the calculation for any given timeout are rallies in the game (not match) before and after the timeout, bounded by any other timeouts.  Bounding by other timeouts seems reasonable because they offer an opportunity to change strategies, and thus counteract the impact of the timeout at hand.
 
 Example calculations are provided for a sample game below, with rallies for one particular timeout highlighted in yellow in the figure on the left.
 
