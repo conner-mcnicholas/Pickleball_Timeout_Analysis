@@ -1,9 +1,9 @@
 # pickleball_analysis
   
 Analysing a dataset of:<br>
-    -389 timeouts within <br>
-    -30315 rallies over <br>
-    -714 games<br>
+    - 389 timeouts within <br>
+    - 30315 rallies over <br>
+    - 714 games<br>
 
 Comparing the timeout-calling team's rally win rates before and after the timeout, results indicate taking a timeout improves performance by approximately 8%, on average.
 
