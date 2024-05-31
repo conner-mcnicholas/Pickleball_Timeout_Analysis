@@ -33,7 +33,7 @@ Data was pulled into a python3 jupyter notebook "timeout_analysis.ipynb" directl
 
 ### Scope & Assumptions
 
-Each timeout is individually scored based on the difference between the team' rallys win percentage before and after the timeout.<br>
+Each timeout is individually scored based on the difference between the team that called it's rally win % before and after the timeout.<br>
 
 The rallies included in the calculation for any given timeout are rallies in the game (not match) before and after the timeout, bounded by any other timeouts.  This bounding was applied because other timeouts are opportunities to change strategy, and thus counteract the impact of the timeout at hand.<br>
 
