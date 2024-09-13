@@ -21,7 +21,7 @@ That relative change in rally win rate is captured by the "performance" column i
 
 Because the serving side is at a disadvantage (winning only 43% of all rallies), this was considered by constraining rallies to only those when the timeout-taking side was serving and returning (as shows in the "serving" and "receiving" columns, respectively). <br>
 
-Another way of incorporating the server/receiver disparity is to directly adjust the metric depending on the share of rallies they enjoyed the receiving-side advantage, which is captured by the "advantage adjusted" column.  For example, if the team was mostly receiving before the timeout, and mostly serving after, but their rally win rate remains constant, then that 0% performance boost takes a deduction to become negative (the scale of which depends on the relative serving rates and winning rates).  As shown in the table, this disparity does not have a significant impact on the final results. <br>
+Another way of incorporating the server/receiver disparity is to directly adjust the metric depending on the share of rallies they enjoyed the receiving-side advantage, which is captured by the "advantage adjusted" column.  For example, if the team was mostly receiving before the timeout, and mostly serving after, but their rally win rate remains constant, then that 0% performance boost is adjusted up to become positive (the scale of which depends on the relative serving rates and winning rates).  As shown in the table, this disparity does not have a significant impact on the final results. <br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/results_20240913.png?raw=true)<br>
 
