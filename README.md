@@ -17,13 +17,13 @@ This analysis took into account the inherent serving side disadvantage (only 43%
 
 ### Summary of Results
 
-That relative change in rally win rate is captured by the "performance" column in the table below.  Because the serving side is at a disadvantage (winning only 43% of all rallies), the suffixes _srv and _ret looks at his same metric, but constrainig the rallies considered to only those when the timeout-taking side was serving and returning (respectively).  Another way of incorporating that server/receiver disparity is to directly adjust the metric depending on the share of rallies they enjoyed the receiving-side advantage, which is captured by the "advantage adjusted" column.<br>
+That relative change in rally win rate is captured by the "performance" column in the table below.  Because the serving side is at a disadvantage (winning only 43% of all rallies), the suffixes _srv and _ret looks at his same metric, but constrainig the rallies considered to only those when the timeout-taking side was serving and returning (respectively).  Another way of incorporating that server/receiver disparity is to directly adjust the metric depending on the share of rallies they enjoyed the receiving-side advantage, which is captured by the "advantage adjusted" column.  Clearly it does not have a significant impact on the findings<br>
 
 ![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/results_20240913.png?raw=true)<br>
 
 Summary statistics grouped by skill level:<br>
 
-![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/5_14_2024/skillmetrics.png?raw=true)<br>
+![alt text](https://github.com/conner-mcnicholas/pickleball_analysis/blob/main/imgs/skill_metrics.png?raw=true)<br>
 
 ### Underlying Data
 
