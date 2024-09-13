@@ -11,7 +11,7 @@ Using our dataset of:<br>
 &emsp;- (timeouts occured in 30% games)
 
 
-By comparing the rally win rates of teams before and after they call a timeout, this analysis has established that, on average, timeouts improve performance by roughly 8%.<br>
+By comparing the rally win rates of teams before and after they call a timeout, this analysis has established that, on average, timeouts improve performance by roughly 7%.<br>
 
 This analysis took into account the inherent serving side disadvantage (only 43% odds of winning rally as server)
 
