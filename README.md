@@ -4,10 +4,12 @@
   
 ### Purpose
 
-Using a dataset of:<br>
-&emsp;- 389 timeouts within <br>
-&emsp;- 30315 rallies over <br>
-&emsp;- 714 games<br>
+Using our dataset of:<br>
+&emsp;- 38094 rallies over <br>
+&emsp;- 888 games<br>
+&emsp;- 428 timeouts occured <br>
+&emsp;- (timeouts occured in 30% games)
+
 
 By comparing the rally win rates of teams before and after they call a timeout, this analysis has established that, on average, timeouts improve performance by roughly 8%.<br>
 
