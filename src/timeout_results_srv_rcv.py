@@ -23,7 +23,7 @@ import seaborn as sns
 conn = psycopg2.connect(database="postgres",
                         host="pklmartdb.ckkvdwandqoa.us-east-1.rds.amazonaws.com",
                         user="cmcnicholas",
-                        password="momentum101",
+                        password="",
                         port="5432")
 conn.autocommit = True
 

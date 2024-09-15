@@ -21,7 +21,7 @@ import logging
 conn = psycopg2.connect(database="postgres",
                         host="pklmart.ckkvdwandqoa.us-east-1.rds.amazonaws.com",
                         user="cmcnicholas",
-                        passworad="momentum101",
+                        password="",
                         port="5432")
 conn.autocommit = True
 
