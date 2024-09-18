@@ -1,0 +1,10 @@
+,metric,mean,median,count
+0,Doubles,3.492,3.462,870
+1,Singles,3.759,3.649,138
+2,Doubles w/ Singles,3.916,3.951,123
+3,Men Doubles,3.64,3.62,512
+4,Women Doubles,3.281,3.276,358
+5,Men Singles,3.797,3.699,109
+6,Women Singles,3.619,3.63,29
+7,Men Doubles w/ Singles,3.938,3.951,97
+8,Women Doubles w/ Singles,3.834,3.934,26
